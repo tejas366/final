@@ -1,0 +1,21 @@
+@media only screen and (min-width: 500px) {
+.block{
+	display:block;
+	padding-top:3%;
+
+}
+
+}
+@media only screen and (min-width: 600px)
+{
+
+}
+
+@media only screen and (min-width: 768px){
+
+.inaline{
+	display: inline-block;
+	padding:2%;
+}
+}
+
